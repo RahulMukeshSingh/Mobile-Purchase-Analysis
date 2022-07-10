@@ -1,0 +1,88 @@
+.main-header .logo{
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+.skin-blue{
+	background-color: #f2f2f2;
+}
+
+.skin-blue .main-header .logo {
+          background-color:#248f24;
+        }
+.skin-blue .main-header .logo:hover {
+          background-color: #248f24;
+        }
+		
+.skin-blue .main-header .navbar {
+          background-color: #248f24;
+        }
+		.skin-blue .main-header .navbar .sidebar-toggle:hover {
+          background-color: #248f24;
+        }
+
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu li a:hover{
+	background-color:#bfbfbf;
+	color:#FFFFFF;
+	
+}
+.skin-blue .main-sidebar .sidebar .sidebar-menu li a.active{
+	background-color:#248f24;
+	color : #FFFFFF;
+}
+.content-wrapper .content .tab-content .tab-pane .row .col-sm-6 .box .box-header .box-title{
+	font-size:25px;
+	color:#248f24;
+}
+.content-wrapper .content .tab-content .tab-pane .row .col-sm-6 .box button{
+	background-color:#248f24;
+	color:#FFFFFF;
+}
+
+.bg-aqua{
+  background-color:#248f24!important;
+}
+
+.content-wrapper .content .tab-content .tab-pane .row .col-sm-4 .info-box .info-box-content .info-box-text{
+color:#248f24;
+}
+
+#shiny-tab-clustering .row .col-sm-3 .box .box-header .box-title {
+color:#248f24;
+}
+
+.label-primary {
+    background-color: #248f24!important;
+}
+
+.irs-bar-edge {
+    border: 1px solid #248f24;
+    background: #248f24;
+}
+
+.irs-bar {
+    border-top: 1px solid #248f24;
+    border-bottom: 1px solid #248f24;
+    background: #248f24;
+}
+
+.irs-slider {
+    background: #248f24;
+}
+
+.irs-single {
+    background: #248f24;
+}
+
+.info-box-text{
+  color:#248f24;
+}
+
+.box-header{
+    color:#248f24;
+}
+
+.progress-bar{
+  background-color:#248f24;
+}
