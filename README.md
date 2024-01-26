@@ -1,2 +1,2 @@
 # Mobile-Purchase-Analysis
-Final Year MSc CS Project for Business Intelligence and Big Data Analytics
+MSc CS Assignment for Business Intelligence and Big Data Analytics
